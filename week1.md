@@ -425,14 +425,14 @@ chatGPT를 이렇게 활용할 수도 있구나 생각하였다. 프롬프트를
 > 
 > 🥗 함수형 프로그래밍 (Functional Programming):
 > 
-> 각 재료(함수)는 독립적으로 준비되고, **조합(composition)**을 통해 최종 결과(비빔밥)를 만듭니다. 모든 것이 선언적이고 예측 가능하며, 복잡함은 깔끔하게 추상화됩니다.
+> 각 재료(함수)는 독립적으로 준비되고, 조합(composition)을 통해 최종 결과(비빔밥)를 만듭니다. 모든 것이 선언적이고 예측 가능하며, 복잡함은 깔끔하게 추상화됩니다.
 > 
 > 📌 결론:
 > 
 > 함수형 프로그래밍은 마치 비빔밥처럼, 불변의 재료들을 순수한 방식으로 섞어낸 결과입니다. 거기에 한 숟갈의 고추장(고차 함수)이 맛을 완성시켜 주죠.
 > 
 
-<img width="750" height="628" alt="image" src="https://gist.github.com/user-attachments/assets/5ba5fe0e-75e7-4daa-9ed8-58f321eed12f" />
+<img width="750" height="628" alt="image" src="https://github.com/user-attachments/assets/2f648497-9042-47ff-93f9-25767c870162" />
 
 ### 느낀점
 
