@@ -166,7 +166,7 @@ C++의 창시자 Bjarne Stroustrup는 언어 설계의 복잡성을 인정하며
 
 [개발 주제] : ex(레이스 컨디션, 데드락, 비동기 이벤트, 동기 이벤트)
 ```
-<img width="610" height="603" alt="image" src="https://gist.github.com/user-attachments/assets/c4d2b210-fedc-401e-aac6-a3ba2734d1ff" />
+
 
 <details>
   <summary>퀘스트 2주차 미션 수행</summary>
@@ -350,7 +350,7 @@ DAY1~DAY4의 주요 동작을 순서대로 반복:
 
 초반에는 의식적으로 수행하기 좀 힘들었는데, 슬랙봇을 활용해서 리마인드 시켜서 미션을 수행할 수 있도록 진행했습니다.
 
-<img width="610" height="603" alt="image" src="https://gist.github.com/user-attachments/assets/c4d2b210-fedc-401e-aac6-a3ba2734d1ff" />
+<img width="606" height="611" alt="image" src="https://github.com/user-attachments/assets/38f42c2e-4330-4ce1-af9a-b608ab19be2d" />
 
 > 1일차에 스트레칭 전 후기와 5일차에 스트레칭 후 후기
 > 
