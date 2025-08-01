@@ -166,6 +166,7 @@ C++의 창시자 Bjarne Stroustrup는 언어 설계의 복잡성을 인정하며
 
 [개발 주제] : ex(레이스 컨디션, 데드락, 비동기 이벤트, 동기 이벤트)
 ```
+<img width="610" height="603" alt="image" src="https://gist.github.com/user-attachments/assets/c4d2b210-fedc-401e-aac6-a3ba2734d1ff" />
 
 <details>
   <summary>퀘스트 2주차 미션 수행</summary>
