@@ -406,7 +406,7 @@ C++의 창시자 Bjarne Stroustrup는 언어 설계의 복잡성을 인정하며
 — Brendan Eich, Netscape, 1995
 ```
 
-<img width="765" height="208" alt="image" src="https://gist.github.com/user-attachments/assets/3d4861e0-4a87-4884-b1d3-d6e960e70906" />
+<img width="617" height="171" alt="image" src="https://github.com/user-attachments/assets/9cdb4632-df78-4bb4-ac62-2e1db6026962" />
 
 
 해당 내용을 슬랙에 공유를 했습니다. 자바스크립트 유래에 대한 내용이라 캠퍼 한분이 이 해당 스레드에 답변을 달아주셨고  자바스크립트와 자바가 이름이 비슷한 이유에 대한 링크를 첨부해 주셨습니다
@@ -464,7 +464,7 @@ https://stackoverflow.com/questions/2018731/why-is-javascript-called-javascript-
 
 분위기를 풀기 위해서 골랐던 과업이였는데 나쁘지는 않았던 것 같다. 실제로 해보니 3글자를 써야한다는 막막함이라고 해야할까? 그런 것이 느껴졌지만 잠시나마 과제와 떨어져 개인의 시간을 가진 느낌이 났다.
 
-<img width="801" height="1064" alt="image" src="https://gist.github.com/user-attachments/assets/bde09ccc-5f72-4f52-928a-547cf5d3ad5d" />
+<img width="613" height="817" alt="image" src="https://github.com/user-attachments/assets/ae73d75e-07f4-4d53-90f8-4747141bbffa" />
 
 ```markdown
 ### 대화 정리
