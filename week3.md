@@ -345,8 +345,7 @@ RPG 게임처럼 진행하지는 않았고, 해당 미션 관련해서 나눈 �
 ```
 
 - 챗지피티의 지식 점검 요청에 대한 대답
-
-<img width="424" height="805" alt="image" src="https://gist.github.com/user-attachments/assets/b5d1b785-afa8-47da-ab0a-699a3cb8685f" />
+<img width="424" height="805" alt="Image" src="https://github.com/user-attachments/assets/9df0a7ac-dc8e-4a72-92cd-39c55cad7000" />
 
 - 지식 점검 후 보충 학습을 위한 자료 요청
 ```
